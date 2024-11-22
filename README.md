@@ -4,11 +4,11 @@ Renewable energy investments made accessible and transparent with blockchain-pow
 VIRIDIANUM is a blockchain-powered platform revolutionizing renewable energy investments. By tokenizing real-world assets (RWA) like solar and wind projects into fractionalized NFTs, VIRIDIANUM breaks down barriers to entry, making green energy investments accessible, transparent, and liquid. The platform leverages VeChain’s enterprise-grade blockchain to provide automated revenue distribution, real-time asset performance tracking, and a seamless marketplace for trading tokenized energy assets.
 
 **2. Features
-**Fractionalized NFTs:** Tokenize renewable energy assets into NFTs, each representing a proportional share of the asset (e.g., 1 NFT = 1 kW).
-**Smart Contracts:** Automate revenue distribution and ensure secure, transparent transactions.
-**Integrated Marketplace:** Facilitate buying, selling, and trading of NFTs with ease.
-**High-Impact Energy Projects:** Focus on off-grid biogas, wind energy, and other sustainable solutions requiring no grid balancing.
-**Real-Time Tracking:** Provide transparent, live updates on energy generation and revenue performance.
+**- Fractionalized NFTs:** Tokenize renewable energy assets into NFTs, each representing a proportional share of the asset (e.g., 1 NFT = 1 kW).
+**- Smart Contracts:** Automate revenue distribution and ensure secure, transparent transactions.
+**- Integrated Marketplace:** Facilitate buying, selling, and trading of NFTs with ease.
+**- High-Impact Energy Projects:** Focus on off-grid biogas, wind energy, and other sustainable solutions requiring no grid balancing.
+**- Real-Time Tracking:** Provide transparent, live updates on energy generation and revenue performance.
 
 **3. How It Works
 **Tokenization:** Real-world renewable energy projects, like solar or wind farms, are divided into fractional units (e.g., 1 kW) and tokenized into NFTs.
